@@ -12,6 +12,8 @@ Este guia detalha o processo de configuração e uso do **Microsoft Copilot** pa
     *   Na interface, você encontrará sugestões de prompts prontos, como "Me dê um enigma", "Me faça rir", "Crie um slogan", e perguntas sobre viagens.
     *   Você pode usar esses prompts prontos ou criar suas próprias perguntas e solicitações.
 
+![image](https://github.com/user-attachments/assets/bc5f15a5-f2f8-4d37-bb1e-b6b5c5f19661)
+
 3.  **Realização de Perguntas e Solicitações**:
     *   Você pode fazer perguntas e o Copilot fornecerá respostas mais intuitivas, que vão além de simples links.
      *   **Exemplo**: Pergunte sobre os prós e contras de viajar para Gramado no inverno. O Copilot pode responder com informações detalhadas como:
@@ -21,6 +23,8 @@ Este guia detalha o processo de configuração e uso do **Microsoft Copilot** pa
 4.  **Geração de Imagens**:
     *   O Copilot também pode gerar imagens com base em suas solicitações.
     *   **Exemplo**: Solicite a criação de uma imagem de "uma mulher na nuvem" para ver o resultado.
+  
+![image](https://github.com/user-attachments/assets/52f64013-c0c6-4a41-9f71-a800e9d20791)
 
 5.  **Geração de Código**:
     *   O Copilot pode ajudar na criação e melhoria de códigos de programação.
