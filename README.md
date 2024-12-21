@@ -9,7 +9,7 @@ Este guia detalha o processo de configuração e uso do **Microsoft Copilot** pa
     *   Note que o Copilot pode não ser uma novidade, sendo uma das grandes ferramentas da era da inteligência artificial.
 
 2.  **Exploração da Interface**:
-    *   Na interface, você encontrará sugestões de prompts prontos, como "Nenhum enigma", "Me faça rir", "Crie um slogan", e perguntas sobre viagens.
+    *   Na interface, você encontrará sugestões de prompts prontos, como "Me dê um enigma", "Me faça rir", "Crie um slogan", e perguntas sobre viagens.
     *   Você pode usar esses prompts prontos ou criar suas próprias perguntas e solicitações.
 
 3.  **Realização de Perguntas e Solicitações**:
