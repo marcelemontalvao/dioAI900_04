@@ -67,3 +67,7 @@ Este guia detalha o processo de configuração e uso do **Microsoft Copilot** pa
 ## Observações Finais
 
 O Copilot é uma ferramenta poderosa que pode ser utilizada para automatizar tarefas, facilitar o dia a dia e auxiliar em diversas áreas. É recomendado que você o utilize sempre que necessário para otimizar suas entregas e tarefas.
+
+![image](https://github.com/user-attachments/assets/8ec0e301-8bce-47c2-b7ef-2ee0e71ca7eb)
+
+![image](https://github.com/user-attachments/assets/d3c9acad-6555-4bb2-8187-7bddbebe7150)
